@@ -1,4 +1,4 @@
-import 'package:collections/collections.dart';
+import 'package:functions/functions.dart';
 import 'package:test/test.dart';
 
 void main() {
