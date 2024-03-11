@@ -5,6 +5,7 @@ void main(List<String> args) {
   print(
     {'name': 'John', 'age': 27, 'height': 1.8} - {'height': 1.8},
   );
+  print({'name': 'John'} * 3);
 }
 
 extension MapOperations<K, V> on Map<K, V> {
@@ -16,5 +17,9 @@ extension MapOperations<K, V> on Map<K, V> {
       });
   }
 
-  Map<K, V> operator *(Map<K, V> other) => other;
+  Iterable<Map<K, V>> operator *(int times) sync* {
+    for (int i = 0; i < times; i++) {
+      yield this;
+    }
+  }
 }
