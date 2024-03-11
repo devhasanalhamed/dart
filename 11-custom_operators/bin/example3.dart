@@ -1,17 +1,14 @@
 void main(List<String> args) {
   /// Addition of two optional integers
 
-  int? value1;
-  int? value2;
+  print(add());
+  print(add(5, null));
+  print(add(5, 6));
+  print(add(null, 8));
+}
 
-  final result = value1 + value2;
-  final result1 = 5 + value2;
-  final result2 = value1 + 6;
-  final result3 = 5 + 10;
-  print(result);
-  print(result1);
-  print(result2);
-  print(result3);
+int add([int? a, int? b]) {
+  return a + b;
 }
 
 extension NullableAdd<T extends num> on T? {
@@ -30,7 +27,7 @@ extension NullableAdd<T extends num> on T? {
     }
 
     /// if this is NOT null and other is NOT null
-    else if (thisShadow != null || other != null) {
+    else if (thisShadow != null && other != null) {
       return thisShadow + other as T;
     }
 
