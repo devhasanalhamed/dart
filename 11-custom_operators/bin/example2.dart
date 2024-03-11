@@ -1,7 +1,7 @@
 void main(List<String> args) {
   /// Multiplying an iterable
   const names = ['Seth', 'Kathy', 'Ethan', 'Megan'];
-  print(names * 50);
+  print(names * 3);
 }
 
 extension Times<T> on Iterable<T> {
