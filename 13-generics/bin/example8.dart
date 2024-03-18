@@ -1,4 +1,5 @@
 void main(List<String> args) {
+  /// Generic storing with comparable
   sort(ascending: false);
   sort(ascending: true);
 }
