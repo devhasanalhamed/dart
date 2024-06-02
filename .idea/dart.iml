@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/1-variables_and_data_types/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/1-variables_and_data_types/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/1-variables_and_data_types/build" />
+      <excludeFolder url="file://$MODULE_DIR$/10-mixins/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/10-mixins/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/10-mixins/build" />
+      <excludeFolder url="file://$MODULE_DIR$/11-custom_operators/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/11-custom_operators/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/11-custom_operators/build" />
+      <excludeFolder url="file://$MODULE_DIR$/12-extensions/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/12-extensions/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/12-extensions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/13-generics/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/13-generics/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/13-generics/build" />
+      <excludeFolder url="file://$MODULE_DIR$/14-exceptions_and_errors/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/14-exceptions_and_errors/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/14-exceptions_and_errors/build" />
+      <excludeFolder url="file://$MODULE_DIR$/15-asynchronous_programming/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/15-asynchronous_programming/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/15-asynchronous_programming/build" />
+      <excludeFolder url="file://$MODULE_DIR$/16-isolates/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/16-isolates/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/16-isolates/build" />
+      <excludeFolder url="file://$MODULE_DIR$/2-operations/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/2-operations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/2-operations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/3-optionals/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/3-optionals/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/3-optionals/build" />
+      <excludeFolder url="file://$MODULE_DIR$/4-late_keyword/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/4-late_keyword/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/4-late_keyword/build" />
+      <excludeFolder url="file://$MODULE_DIR$/5-functions/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/5-functions/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/5-functions/build" />
+      <excludeFolder url="file://$MODULE_DIR$/6-collections/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/6-collections/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/6-collections/build" />
+      <excludeFolder url="file://$MODULE_DIR$/7-controlflow/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/7-controlflow/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/7-controlflow/build" />
+      <excludeFolder url="file://$MODULE_DIR$/8-enumerations/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/8-enumerations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/8-enumerations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/9-classes/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/9-classes/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/9-classes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/playground/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/playground/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/playground/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
