@@ -5,6 +5,12 @@ void main(List<String> args) {
   const String someString = 'Hello';
   const bool someBool = true;
 
+  String str = "Hasan";
+
+  print(str[str.length - 1]);
+  print(str.toLowerCase());
+  print(str);
+
   print(someInteger);
   print(someDouble);
   print(someString);
