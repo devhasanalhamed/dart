@@ -20,7 +20,7 @@ void main(List<String> args) async {
   }
 }
 
-List<String> names() => ['John', 'Doe'];
+// List<String> names() => ['John', 'Doe'];
 
 /// method one of creating stream
 Stream<int> getNumbers() async* {
